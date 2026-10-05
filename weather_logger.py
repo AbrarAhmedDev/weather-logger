@@ -23,4 +23,3 @@ def summarize(temps):
 
 summary = summarize(temps)
 
-print(summary)
